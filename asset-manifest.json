@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://eladcrock.github.io/csb-lhvfb/static/css/main.ebc37f49.chunk.css",
+    "main.js": "https://eladcrock.github.io/csb-lhvfb/static/js/main.a2c67487.chunk.js",
+    "main.js.map": "https://eladcrock.github.io/csb-lhvfb/static/js/main.a2c67487.chunk.js.map",
+    "runtime-main.js": "https://eladcrock.github.io/csb-lhvfb/static/js/runtime-main.b715cdd3.js",
+    "runtime-main.js.map": "https://eladcrock.github.io/csb-lhvfb/static/js/runtime-main.b715cdd3.js.map",
+    "static/js/2.dbbb2677.chunk.js": "https://eladcrock.github.io/csb-lhvfb/static/js/2.dbbb2677.chunk.js",
+    "static/js/2.dbbb2677.chunk.js.map": "https://eladcrock.github.io/csb-lhvfb/static/js/2.dbbb2677.chunk.js.map",
+    "index.html": "https://eladcrock.github.io/csb-lhvfb/index.html",
+    "static/css/main.ebc37f49.chunk.css.map": "https://eladcrock.github.io/csb-lhvfb/static/css/main.ebc37f49.chunk.css.map",
+    "static/js/2.dbbb2677.chunk.js.LICENSE.txt": "https://eladcrock.github.io/csb-lhvfb/static/js/2.dbbb2677.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b715cdd3.js",
+    "static/js/2.dbbb2677.chunk.js",
+    "static/css/main.ebc37f49.chunk.css",
+    "static/js/main.a2c67487.chunk.js"
+  ]
+}
